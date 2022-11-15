@@ -1,0 +1,11 @@
+
+.myDiv {
+      border: 5px outset red;
+      background-color: lightblue;    
+      text-align: center;
+      margin: center;
+      width: 50%;
+      margin-left: 25%;
+      height: 550px;
+    
+    }
